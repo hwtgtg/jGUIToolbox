@@ -1,0 +1,2 @@
+V0: Erzeuger und Verbraucher ohne "synchronized"
+V1 und V2 mit verschiedenen Strategien

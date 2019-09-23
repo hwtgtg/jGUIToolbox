@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Wurzel>
+   <Knoten_1>Erstes Element
+      <Knoten_1_1>Erstes Unterelement</Knoten_1_1>
+   </Knoten_1>
+   <Knoten_2>Zweites Element
+      <Knoten_4>Zweites Unterelement</Knoten_4>
+      <Knoten_5>UE5 in E2</Knoten_5>
+      <PI>3.14159265359</PI>
+      <Knoten_6>UE6 in E2
+         <UE_7>
+            <!-- Kommentar zum Element -->
+         </UE_7>
+      </Knoten_6>
+   </Knoten_2>
+   <Knoten_3>Drittes Element
+      <Unterknoten>Unterknoten 1</Unterknoten>
+      <Unterknoten>Unterknoten 2</Unterknoten>
+      <Unterknoten>Unterknoten 3</Unterknoten>
+      <Unterknoten>Unterknoten 4</Unterknoten>
+   </Knoten_3>
+   <!--  Ende  -->
+</Wurzel>

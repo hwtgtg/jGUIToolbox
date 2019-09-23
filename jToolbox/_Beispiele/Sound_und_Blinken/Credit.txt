@@ -1,0 +1,12 @@
+Verwendete Sounds:
+
+Licenses:
+zero (cc0): http://creativecommons.org/publicdomain/zero/1.0/
+attribution (by): http://creativecommons.org/licenses/by/3.0/
+attribution noncommercial (by-nc): http://creativecommons.org/licenses/by-nc/3.0/
+
+S: Doumbek_Snap2.wav by pjcohen -- https://freesound.org/s/413778/ -- License: Attribution
+als doumbek_m.wav bearbeitet - verkürzt - leisen Teil am Ende gelöscht
+
+S: Explosion_01.wav by tommccann -- https://freesound.org/s/235968/ -- License: Creative Commons 0
+als explosion_m.wav bearbeitet, damit durch audio.java ausgebbar

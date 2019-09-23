@@ -1,0 +1,17 @@
+UCanAccess is an open source pure Java JDBC Driver implementation for access (mdb and accdb), originally licensed under LGPL 2.1.
+
+Link zur Quelle:
+https://sourceforge.net/projects/ucanaccess/files/
+
+Bei BlueJ:
+Über Werkzeuge->Einstellungen->Bibliotheken aus diesem Verzeichnis die folgenden Datei zu den Benutzerbibliotheken hinzufügen:
+* die vier Dateien des Verzeichnisses UCanAccess-4.0.4-bin\lib
+* die Datei ucanaccess-4.0.4.jar aus UCanAccess-4.0.4-bin
+
+Bei neueren Versionen entsprechend anpassen.
+
+
+Die Dateien formel1.mdb und formel1.accdb sind leere Datenbanken. Sie können beleibig umbenannt werden. Im Verzeichnis dbVorlagen liegen sie zum Kopieren bereit.
+Nicht funktioniert hat Drop Table. 
+Das Erzeugen der Tabellenstruktur sollte vom Füllen und bearbeiten getrennt werden.
+Bei neueren Driverversionen wird das Problem hoffentlich verschwinden.

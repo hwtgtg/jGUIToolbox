@@ -1,0 +1,16 @@
+Zur Derby-DB:
+http://db.apache.org/derby/
+Apache License, Version 2.0. 
+" ...
+Derby has a small footprint -- about 3.5 megabytes for the base engine and embedded JDBC driver.
+Derby is based on the Java, JDBC, and SQL standards. 
+... "
+
+Quellen Derby-Driver:
+http://db.apache.org/derby/derby_downloads.html
+
+Download der lib-Distribution
+Das lib-Verzeichnis wird benötigt
+
+Bei BlueJ:
+Über Werkzeuge->Einstellungen->Bibliotheken aus diesem Verzeichnis die Datei derbytools.jar zu den Benutzerbibliotheken hinzufügen

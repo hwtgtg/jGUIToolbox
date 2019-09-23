@@ -1,0 +1,42 @@
+Zu den Sonnen-Bildern
+SOHO Copyright Notice
+
+Notice: The use of SOHO images or data for public education efforts and non-commercial purposes is strongly encouraged and requires no expressed authorization. It is requested, however, that any such use properly attributes the source of the images or data as:
+
+      "Courtesy of SOHO/[instrument] consortium. SOHO is a project of international cooperation between ESA and NASA." 
+
+      where [instrument] stands for the name of the instrument that acquired the data (i.e. SOHO/EIT, SOHO/LASCO, etc).
+
+Another, shorter, version of the notice:
+
+      "SOHO (ESA & NASA)"
+
+is also acceptable. 
+
+
+GNU Free Documentation License, Version 1.2 
+
+
+http://de.wikipedia.org/wiki/Bild:Fruits_Luc_Viatour.jpg
+Einzelne Früchte extrahiert und auf Größe 80*80 normiert
+
+http://de.wikipedia.org/wiki/Bild:Granatapfel_1.png
+Fotograf: Thomas Steiner
+
+http://de.wikipedia.org/w/index.php?title=Bild:Bieszczady_Flora.jpg&filetimestamp=20060317070025
+Fotograf: Marek Silarski
+
+http://upload.wikimedia.org/wikipedia/commons/6/6f/P1030319.JPG
+Author Elena Chochkova
+
+http://commons.wikimedia.org/wiki/Image:Dunkelfelder_Weinsberg_20080927.jpg
+Author 	Rosenzweig
+
+http://commons.wikimedia.org/wiki/Image:Fuji_apple.jpg
+Photo by Scott Bauer. (Agricultural Research Service)
+
+http://commons.wikimedia.org/wiki/Image:Blake%27s_Pride_pears.jpg
+USDA photo by Scott Bauer.(Agricultural Research Service)
+
+Tiere:
+openclipart-0.18-full

@@ -1,0 +1,13 @@
+Zur HSQL-DB:
+http://hsqldb.org/
+
+Lizenz:
+http://hsqldb.org/web/hsqlLicense.html
+
+Download:
+https://sourceforge.net/projects/hsqldb/files/
+
+Es werden die Dateien des lib-Verzeichnisses benötigt
+
+Bei BlueJ:
+Über Werkzeuge->Einstellungen->Bibliotheken aus diesem Verzeichnis die Datei hsqldb.jar zu den Benutzerbibliotheken hinzufügen

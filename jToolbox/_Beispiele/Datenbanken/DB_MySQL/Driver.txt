@@ -1,0 +1,24 @@
+Zur MySQL-DB - MariaDB:
+https://mariadb.org/
+
+MariaDB ist eine open-source-Datenbank, entwickelt vo früheren Entwicklern von MySQL.
+MariaDB ist im wesentlichen kompatibel zu MySQL.
+
+
+Lizenz:
+https://en.wikipedia.org/wiki/GNU_General_Public_License
+
+Download:
+https://downloads.mariadb.org/connector-java/
+
+Bei BlueJ:
+Über Werkzeuge->Einstellungen->Bibliotheken die Datei mariadb-java-client-2.4.2.jar zu den Benutzerbibliotheken hinzufügen
+
+In der Datei DB_MySQL.java wurde der MySQL-Connectorname durch den MariaDB-Connectornamen ersetzt:
+//        Class.forName("com.mysql.jdbc.Driver").newInstance();
+          Class.forName("org.mariadb.jdbc.Driver").newInstance();
+
+Im Gegensatz zu Derby und HSQL benötigt MySQL/MariaDB einen extra Datenbankserver, der während aktiv sein muss. 
+
+Mit XAMP erhält man u.a. eine MariaDB-Datenbank.
+https://www.apachefriends.org/de/index.html
